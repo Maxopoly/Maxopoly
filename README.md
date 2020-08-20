@@ -1,6 +1,6 @@
 ### Hi there, I'm Max 
 
-A few years ago I got into programming by making small Minecraft mods and seemingly that's what I still mostly do on here, though a bit less small. 
+A few years ago I got into programming by making small Minecraft mods and seemingly that's what I still mostly do on here, though a bit less small now. 
 
 - Currently doing a Masters in Computer Science with focus on cryptography
 - Linux enthusiast
