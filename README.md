@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Max 
+
+A long time ago I got into programming by making small Minecraft mods and seemingly that's what I still mostly do on here.
+
+[![Maxopoly's github stats](https://github-readme-stats.vercel.app/api?username=maxopoly&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Maxopoly/Maxopoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
