@@ -4,7 +4,6 @@ A few years ago I got into programming by making small Minecraft mods and seemin
 
 - Currently doing a Masters in Computer Science with focus on cryptography
 - Linux enthusiast
-- Open source fanatic
 
 [![Maxopoly's github stats](https://github-readme-stats.vercel.app/api?username=maxopoly&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
