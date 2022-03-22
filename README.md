@@ -1,9 +1,10 @@
 ### Hi there, I'm Max 
 
-A few years ago I got into programming by making small Minecraft mods and seemingly that's what I still mostly do on here, though a bit less small now. 
+A few years ago I got into programming by making small Minecraft mods and a Master in CS later that's what I still mostly do on here. I'm proud to have contributed to many other open source projects as well, like for example Nextcloud.
 
-- Currently doing a Masters in Computer Science with focus on cryptography
+- Currently looking for work in IT-Security
 - Linux enthusiast
+- Open source nerd
 
 [![Maxopoly's github stats](https://github-readme-stats.vercel.app/api?username=maxopoly&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
