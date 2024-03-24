@@ -1,6 +1,6 @@
 ### Hi there, I'm Max 
 
-A few years ago I got into programming by making small Minecraft mods and a Master in CS later that's what I still mostly do on here. I'm proud to have contributed to many other open source projects, like for example Nextcloud.
+A few years ago I got into programming by making small Minecraft mods and a Master in CS later that's what I still mostly do on here. I'm proud to have contributed to many other open source projects, like ansible or Nextcloud.
 
 - Working as IT-Security consultant
 - Linux enthusiast
